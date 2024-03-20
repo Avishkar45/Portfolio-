@@ -1,6 +1,7 @@
 Portfolio Website
-Technologies used are
-Html
-Css
-Javascript
-Typescript
+
+Technologies used are:
+<br>Html
+<br>Css
+<br>Javascript
+<br>Typescript
