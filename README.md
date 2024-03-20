@@ -1,5 +1,3 @@
-Portfolio Website
-
 Technologies used are:
 <br>Html
 <br>Css
